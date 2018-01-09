@@ -3,7 +3,7 @@ Some new text added at 10:00am
 Initial text added on FeatureBranch1 - 10:03am
 FeatureBranch1 is going to have some amazing stuff!! - 10:04am
 Inital text for FeatureBranch2 - 10:24am
-FeatureBranch2 is even better than FeatureBranch1!!! - 10:25am
+FeatureBranch2 is even worse than FeatureBranch1!!! - 10:25am
 Inital text for FeatureBranch3 - 10:34am
 FeatureBranch3 is done and ready for the next release - 10:35am
 Release 1.0.0 is getting ready for testing. - 10:28am
@@ -14,3 +14,9 @@ Welcome to Feature 5! This is going to AWESOME!
 Feature 5 check in 2
 Feature 5 check in 3
 Feature 5 checking 4
+Feature4: We did a random 1.1.1 tag.
+Feature4: We are going to update how 'great' Feature 2 was.
+Feature4: Check in 3
+Feature4: Check in 4
+Feature4: Check in 5
+Feature4: Check in 6
