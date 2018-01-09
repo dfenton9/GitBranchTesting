@@ -13,3 +13,4 @@ Release 1.1.0 is ready to go! Let's make a tag and ship it!! - 11:14am
 Feature4: We did a random 1.1.1 tag.
 Feature4: We are going to update how 'great' Feature 2 was.
 Feature4: Check in 3
+Featrue4: Check in 4
