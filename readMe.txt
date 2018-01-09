@@ -15,3 +15,4 @@ Feature4: We are going to update how 'great' Feature 2 was.
 Feature4: Check in 3
 Feature4: Check in 4
 Feature4: Check in 5
+Feature4: Check in 6
