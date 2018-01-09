@@ -12,3 +12,4 @@ Release 1.0.0 is ready to go! Tag it & Ship it! - 10:37am
 Release 1.1.0 is ready to go! Let's make a tag and ship it!! - 11:14am
 Welcome to Feature 5! This is going to AWESOME!
 Feature 5 check in 2
+Feature 5 check in 3
